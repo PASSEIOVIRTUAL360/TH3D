@@ -9,7 +9,7 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 ## Media
 
 ### Title
-model_1CD6845D_1281_C7A2_418E_ABCDCA5D7A95.label = 9fd8ad1b4618323161b030ead98a659950d087e3846039c8fedd535eb5a688f8
+model_0CDDFC8D_128E_C0A2_41AC_18A2141FEE64.label = TH3D
 
 ## Skin
 
